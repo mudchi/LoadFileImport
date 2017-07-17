@@ -1,0 +1,28 @@
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+   Created Date : 05/06/2017 13:50:55
+   Process Name   : DMSSUB
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[ 13:50:55 ][ Info ][ BaseLoadfileBLL.start ] <==> *******************************************************************************
+[ 13:50:55 ][ Info ][ BaseLoadfileBLL.start ] <==> Program Start On 05/06/2017 13:50:55
+[ 13:50:55 ][ Info ][ BaseLoadfileBLL.start ] <==> Default culture en-US
+[ 13:50:55 ][ Info ][ BaseLoadfileBLL.start ] <==> *******************************************************************************
+[ 13:50:55 ][ Info ][ BaseLoadfileBLL.start ] <==> 1.Insert LogHeader Runby : AUTO ,Programname : DMSSUB ,RunDate : 11/05/2017,PathFile : C:\Users\chirayut.w\Desktop\Test, FileName : DMSSUBREPEATING_*_{0}.txt
+[ 13:50:55 ][ Info ][ BaseLoadfileBLL.start ] <==> 2.Set program Mode : AUTO and change end string of path file to \
+[ 13:50:55 ][ Info ][ BaseLoadfileBLL.start ] <==> 3.Get file
+[ 13:50:55 ][ Info ][ BaseLoadfileBLL.start ] <==> 	- Begin get Folder Name : C:\Users\chirayut.w\Desktop\Test\
+[ 13:50:55 ][ Info ][ BaseLoadfileBLL.start ] <==> 	- End get Folder Name : C:\Users\chirayut.w\Desktop\Test\
+[ 13:50:55 ][ Info ][ BaseLoadfileBLL.start ] <==> 	- Get file name : DMSSUBREPEATING_*_20170511.txt
+[ 13:50:55 ][ Info ][ BaseLoadfileBLL.start ] <==> 		- File not found.Stop Program error step getfile
+[ 13:50:55 ][ Info ][ BaseLoadfileBLL.start ] <==> File DMSSUBREPEATING_*_20170511.txt not found
+[ 13:51:06 ][ Info ][ BaseLoadfileBLL.start ] <==> *******************************************************************************
+[ 13:51:06 ][ Info ][ BaseLoadfileBLL.start ] <==> Program Start On 05/06/2017 13:51:06
+[ 13:51:06 ][ Info ][ BaseLoadfileBLL.start ] <==> Default culture en-US
+[ 13:51:06 ][ Info ][ BaseLoadfileBLL.start ] <==> *******************************************************************************
+[ 13:51:06 ][ Info ][ BaseLoadfileBLL.start ] <==> 1.Insert LogHeader Runby : AUTO ,Programname : DMSSUB ,RunDate : 11/05/2017,PathFile : C:\Users\chirayut.w\Desktop\Test, FileName : DMSSUBREPEATING_*_{0}.txt
+[ 13:51:06 ][ Info ][ BaseLoadfileBLL.start ] <==> 2.Set program Mode : AUTO and change end string of path file to \
+[ 13:51:06 ][ Info ][ BaseLoadfileBLL.start ] <==> 3.Get file
+[ 13:51:06 ][ Info ][ BaseLoadfileBLL.start ] <==> 	- Begin get Folder Name : C:\Users\chirayut.w\Desktop\Test\
+[ 13:51:06 ][ Info ][ BaseLoadfileBLL.start ] <==> 	- End get Folder Name : C:\Users\chirayut.w\Desktop\Test\
+[ 13:51:06 ][ Info ][ BaseLoadfileBLL.start ] <==> 	- Get file name : DMSSUBREPEATING_*_20170511.txt
+[ 13:51:06 ][ Info ][ BaseLoadfileBLL.start ] <==> 		- File not found.Stop Program error step getfile
+[ 13:51:06 ][ Info ][ BaseLoadfileBLL.start ] <==> File DMSSUBREPEATING_*_20170511.txt not found

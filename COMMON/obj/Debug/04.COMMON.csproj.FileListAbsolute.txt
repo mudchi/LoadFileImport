@@ -1,0 +1,12 @@
+D:\Sourcecode\625-TF_REG-NTF\SourceCode\Source\TF_BOT\Generate_Input_Convert\LoadFileFromBT\COMMON\bin\Debug\COMMON.dll
+D:\Sourcecode\625-TF_REG-NTF\SourceCode\Source\TF_BOT\Generate_Input_Convert\LoadFileFromBT\COMMON\bin\Debug\COMMON.pdb
+D:\Sourcecode\625-TF_REG-NTF\SourceCode\Source\TF_BOT\Generate_Input_Convert\LoadFileFromBT\COMMON\bin\Debug\TFRegEntity.dll
+D:\Sourcecode\625-TF_REG-NTF\SourceCode\Source\TF_BOT\Generate_Input_Convert\LoadFileFromBT\COMMON\bin\Debug\TFRegLibrary.dll
+D:\Sourcecode\625-TF_REG-NTF\SourceCode\Source\TF_BOT\Generate_Input_Convert\LoadFileFromBT\COMMON\bin\Debug\Oracle.DataAccess.dll
+D:\Sourcecode\625-TF_REG-NTF\SourceCode\Source\TF_BOT\Generate_Input_Convert\LoadFileFromBT\COMMON\bin\Debug\TFLibrary.DBManager.dll
+D:\Sourcecode\625-TF_REG-NTF\SourceCode\Source\TF_BOT\Generate_Input_Convert\LoadFileFromBT\COMMON\bin\Debug\MySql.Data.dll
+D:\Sourcecode\625-TF_REG-NTF\SourceCode\Source\TF_BOT\Generate_Input_Convert\LoadFileFromBT\COMMON\obj\Debug\04.COMMON.csprojResolveAssemblyReference.cache
+D:\Sourcecode\625-TF_REG-NTF\SourceCode\Source\TF_BOT\Generate_Input_Convert\LoadFileFromBT\COMMON\obj\Debug\COMMON.RSSQL.resources
+D:\Sourcecode\625-TF_REG-NTF\SourceCode\Source\TF_BOT\Generate_Input_Convert\LoadFileFromBT\COMMON\obj\Debug\04.COMMON.csproj.GenerateResource.Cache
+D:\Sourcecode\625-TF_REG-NTF\SourceCode\Source\TF_BOT\Generate_Input_Convert\LoadFileFromBT\COMMON\obj\Debug\COMMON.dll
+D:\Sourcecode\625-TF_REG-NTF\SourceCode\Source\TF_BOT\Generate_Input_Convert\LoadFileFromBT\COMMON\obj\Debug\COMMON.pdb

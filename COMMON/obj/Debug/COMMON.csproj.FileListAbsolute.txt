@@ -1,0 +1,5 @@
+D:\Sourcecode\625-TF_REG-NTF\SourceCode\Source\TF_BOT\Generate_Input_Convert\LoadFileFromBT\COMMON\bin\Debug\COMMON.dll
+D:\Sourcecode\625-TF_REG-NTF\SourceCode\Source\TF_BOT\Generate_Input_Convert\LoadFileFromBT\COMMON\bin\Debug\COMMON.pdb
+D:\Sourcecode\625-TF_REG-NTF\SourceCode\Source\TF_BOT\Generate_Input_Convert\LoadFileFromBT\COMMON\obj\Debug\COMMON.csprojResolveAssemblyReference.cache
+D:\Sourcecode\625-TF_REG-NTF\SourceCode\Source\TF_BOT\Generate_Input_Convert\LoadFileFromBT\COMMON\obj\Debug\COMMON.dll
+D:\Sourcecode\625-TF_REG-NTF\SourceCode\Source\TF_BOT\Generate_Input_Convert\LoadFileFromBT\COMMON\obj\Debug\COMMON.pdb

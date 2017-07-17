@@ -1,0 +1,56 @@
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+   Created Date : 05/06/2017 13:50:50
+   Process Name   : LoadFileFromBT
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[ 13:50:50 ][ Info ][ formMain..ctor ] <==> Start Program: LOADBT Runby: 11/05/2017 TypeRun: AUTO  
+[ 13:50:50 ][ Info ][ formMain..ctor ] <==> *******************************************************************************
+[ 13:50:50 ][ Info ][ formMain..ctor ] <==> Program Start On 05/06/2017 13:50:50
+[ 13:50:50 ][ Info ][ formMain..ctor ] <==> Default culture en-US
+[ 13:50:50 ][ Info ][ formMain..ctor ] <==> Program group GENINBT
+[ 13:50:50 ][ Info ][ formMain..ctor ] <==> *******************************************************************************
+[ 13:50:50 ][ Info ][ formMain..ctor ] <==> Load Scheduled
+[ 13:50:50 ][ Info ][ formMain..ctor ] <==> --------------------------------------------------------------------------
+[ 13:50:50 ][ Info ][ formMain..ctor ] <==> * * * SystemDate : 05/06/2017
+[ 13:50:50 ][ Info ][ formMain..ctor ] <==> * * * Transaction Date : 11/05/2017
+[ 13:50:50 ][ Info ][ formMain..ctor ] <==> --------------------------------------------------------------------------
+[ 13:50:51 ][ Info ][ formMain..ctor ] <==> Get 3 list : DMSFTX,DMSFTU,DMSSUB
+[ 13:50:51 ][ Info ][ formMain..ctor ] <==> --------------------------------------------------------------------------
+[ 13:50:55 ][ Info ][ formMain.TimeAuto_Tick ] <==> ***********************Start Timer tick***********************
+[ 13:50:55 ][ Info ][ formMain.TimeAuto_Tick ] <==> Begin program DMSFTX status : NOT RUN
+[ 13:50:55 ][ Info ][ ScheduleBLL.checkOverTimeLimit ] <==> Check limit time 19:00:00 Time now : 13:50:55
+[ 13:50:55 ][ Info ][ ScheduleBLL.checkOverTimeLimit ] <==> 	- Pass
+[ 13:50:55 ][ Info ][ formMain.TimeAuto_Tick ] <==> 		- Start Run program : DMSFTX Path : C:\Users\chirayut.w\Desktop\Test Filename : DMSFTX_*_{0}.txt
+[ 13:50:55 ][ Info ][ formMain.TimeAuto_Tick ] <==> Begin program DMSFTU status : NOT RUN
+[ 13:50:55 ][ Info ][ ScheduleBLL.checkOverTimeLimit ] <==> Check limit time 19:00:00 Time now : 13:50:55
+[ 13:50:55 ][ Info ][ ScheduleBLL.checkOverTimeLimit ] <==> 	- Pass
+[ 13:50:55 ][ Info ][ formMain.TimeAuto_Tick ] <==> 		- Start Run program : DMSFTU Path : C:\Users\chirayut.w\Desktop\Test Filename : DMSFTU_*_{0}.txt
+[ 13:50:55 ][ Info ][ formMain.TimeAuto_Tick ] <==> Begin program DMSSUB status : NOT RUN
+[ 13:50:55 ][ Info ][ ScheduleBLL.checkOverTimeLimit ] <==> Check limit time 19:00:00 Time now : 13:50:55
+[ 13:50:55 ][ Info ][ ScheduleBLL.checkOverTimeLimit ] <==> 	- Pass
+[ 13:50:55 ][ Info ][ formMain.TimeAuto_Tick ] <==> 		- Start Run program : DMSSUB Path : C:\Users\chirayut.w\Desktop\Test Filename : DMSSUBREPEATING_*_{0}.txt
+[ 13:50:55 ][ Info ][ formMain.TimeAuto_Tick ] <==> ***********************End Timer tick***********************
+[ 13:50:55 ][ Info ][ formMain.TimeAuto_Tick ] <==> --------------------------------------------------------------------------
+[ 13:51:00 ][ Info ][ formMain.TimeAuto_Tick ] <==> ***********************Start Timer tick***********************
+[ 13:51:00 ][ Info ][ formMain.TimeAuto_Tick ] <==> Begin program DMSFTX status : RUN
+[ 13:51:00 ][ Info ][ formMain.TimeAuto_Tick ] <==> 		- Get log status program DMSFTX is status E
+[ 13:51:00 ][ Info ][ formMain.TimeAuto_Tick ] <==> Begin program DMSFTU status : RUN
+[ 13:51:00 ][ Info ][ formMain.TimeAuto_Tick ] <==> 		- Get log status program DMSFTU is status E
+[ 13:51:00 ][ Info ][ formMain.TimeAuto_Tick ] <==> Begin program DMSSUB status : RUN
+[ 13:51:00 ][ Info ][ formMain.TimeAuto_Tick ] <==> 		- Get log status program DMSSUB is status E
+[ 13:51:00 ][ Info ][ formMain.TimeAuto_Tick ] <==> ***********************End Timer tick***********************
+[ 13:51:00 ][ Info ][ formMain.TimeAuto_Tick ] <==> --------------------------------------------------------------------------
+[ 13:51:05 ][ Info ][ formMain.TimeAuto_Tick ] <==> ***********************Start Timer tick***********************
+[ 13:51:05 ][ Info ][ formMain.TimeAuto_Tick ] <==> Begin program DMSFTX status : ERROR
+[ 13:51:05 ][ Info ][ ScheduleBLL.checkOverTimeLimit ] <==> Check limit time 19:00:00 Time now : 13:51:05
+[ 13:51:05 ][ Info ][ ScheduleBLL.checkOverTimeLimit ] <==> 	- Pass
+[ 13:51:05 ][ Info ][ formMain.TimeAuto_Tick ] <==> 		- Start Continue Run program  : DMSFTX Path : C:\Users\chirayut.w\Desktop\Test Filename : DMSFTX_*_{0}.txt
+[ 13:51:05 ][ Info ][ formMain.TimeAuto_Tick ] <==> Begin program DMSFTU status : ERROR
+[ 13:51:05 ][ Info ][ ScheduleBLL.checkOverTimeLimit ] <==> Check limit time 19:00:00 Time now : 13:51:05
+[ 13:51:05 ][ Info ][ ScheduleBLL.checkOverTimeLimit ] <==> 	- Pass
+[ 13:51:05 ][ Info ][ formMain.TimeAuto_Tick ] <==> 		- Start Continue Run program  : DMSFTU Path : C:\Users\chirayut.w\Desktop\Test Filename : DMSFTU_*_{0}.txt
+[ 13:51:05 ][ Info ][ formMain.TimeAuto_Tick ] <==> Begin program DMSSUB status : ERROR
+[ 13:51:05 ][ Info ][ ScheduleBLL.checkOverTimeLimit ] <==> Check limit time 19:00:00 Time now : 13:51:05
+[ 13:51:05 ][ Info ][ ScheduleBLL.checkOverTimeLimit ] <==> 	- Pass
+[ 13:51:06 ][ Info ][ formMain.TimeAuto_Tick ] <==> 		- Start Continue Run program  : DMSSUB Path : C:\Users\chirayut.w\Desktop\Test Filename : DMSSUBREPEATING_*_{0}.txt
+[ 13:51:06 ][ Info ][ formMain.TimeAuto_Tick ] <==> ***********************End Timer tick***********************
+[ 13:51:06 ][ Info ][ formMain.TimeAuto_Tick ] <==> --------------------------------------------------------------------------
